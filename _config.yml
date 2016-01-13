@@ -14,14 +14,14 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.5778379514813423
-  brandStrength: 0.7717509
+  brandStrength: 0.2787325
   lightness: 0.3221903261728585
   brandColors:
-    - '#FFFFFF'
-    - '#03B282'
-    - '#C89E64'
-    - '#1C2022'
-    - '#55ACEE'
+    - '#999387'
+    - '#FFFFEA'
+    - '#535354'
+    - '#66A3F4'
+    - '#201E16'
   rhythmicContrast: 0.870312127051875
 cta:
   bucket: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: DaveEspadas
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.2744361
-layout_spectrum: 0.2658432
+layout_spectrum: 0.7201934
