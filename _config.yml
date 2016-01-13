@@ -1,29 +1,41 @@
-name: DaveEspadas
-favicon: null
-layout_spectrum: 0.7806078824214637
-typography_spectrum: 0.9374285091180354
 title: Marketero
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5778379514813423
+  lightness: 0.3221903261728585
+  brandStrength: 0.7717509
+  brandColors:
+    - '#CEE0E9'
+    - '#0D0B16'
+    - '#88A3BD'
+    - '#EBA22E'
+    - '#BD8887'
+  rhythmicContrast: 0.870312127051875
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: DaveEspadas
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7610226694960147
-  lightness: 0.3221903261728585
-  saturation: 0.5778379514813423
-  rhythmicContrast: 0.870312127051875
-purpose: []
+typography_spectrum: 0.9374285091180354
+layout_spectrum: 0.9801289
