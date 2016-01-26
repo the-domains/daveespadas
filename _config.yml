@@ -1,5 +1,8 @@
-title: Marketero
-purpose: []
+name: DaveEspadas
+favicon: null
+layout_spectrum: 0.7201934
+typography_spectrum: 0.2744361
+title: 'Cool Stuff for Digital Marketers '
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5778379514813423
-  brandStrength: 0.2787325
-  lightness: 0.3221903261728585
   brandColors:
     - '#999387'
     - '#FFFFEA'
     - '#535354'
     - '#66A3F4'
     - '#201E16'
+  brandStrength: 0.2787325
+  lightness: 0.3221903261728585
+  saturation: 0.5778379514813423
   rhythmicContrast: 0.870312127051875
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: DaveEspadas
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2744361
-layout_spectrum: 0.7201934
+purpose: []
